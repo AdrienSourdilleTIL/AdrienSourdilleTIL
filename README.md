@@ -6,4 +6,4 @@ As a binational French and Canadian data consultant, I combine technical experti
 
 | Tableau Data Analyst Certification | Alteryx Designer Advanced Certified | Alteryx Server Designer Core |
 |:-:|:-:|:-:|:-:|
-| ![Tableau](https://www.credly.com/badges/dbabe139-1675-4be9-b11e-cc707badfd6a/embedded) | ![Alteryx Designer](alteryx-designer-advanced-certification.png) | ![Alteryx Server](credly=5e268819-90e5-4dc9-97e6-a7cd6702ee00) |
+| ![Tableau](https://www.credly.com/badges/dbabe139-1675-4be9-b11e-cc707badfd6a/embedded) | ![Alteryx Designer](alteryx-designer-advanced-certification.png) | ![Alteryx Server](alteryx-designer-core-certification.png) |
