@@ -13,7 +13,7 @@ As a binational French and Canadian data consultant, I combine technical experti
 **This Dashboard provides an executive overview of key performance metrics for a fictitious solar plant I created called.**
 <br>
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/Year-to-DateExecutivePerformanceOverview/KPIDashboard">
-    <img src="assets/img/portfolio/portfolio-16.png" width="80%">
+    <img src="Dashboard 1.png" width="80%">
 </a>
 ---
 **Experience this classic PC game on Tableau with this homage that aims to replicate as much of the game's original functionality as possible.**
