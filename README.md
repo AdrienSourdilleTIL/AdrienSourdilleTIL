@@ -12,26 +12,20 @@ As a binational French and Canadian data consultant, I combine technical experti
 ---
 **This Dashboard provides an executive overview of key performance metrics for a fictitious solar plant I created called.**
 <br>
-<a href="https://public.tableau.com/app/profile/edwardhayter/viz/Year-to-DateExecutivePerformanceOverview/KPIDashboard">
+<a href="https://public.tableau.com/views/FrenchEnergyMix2022/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img src="Dashboard 1.png" width="80%">
 </a>
 ---
 **Experience this classic PC game on Tableau with this homage that aims to replicate as much of the game's original functionality as possible.**
 <br>
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/ExpertMinesweeper/Minesweeper">
-    <img src="https://github.com/user-attachments/assets/68b9967b-dac4-4458-8085-fe27e7a797d0" width="80%">
+    <img src="Parliament.png" width="80%">
 </a>
 ---
 **Explore how college athletes score within their data class in the physical testing of the NFL Combine with this Dashboard.**
 <br>
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/NFLCombineKPIWorkbook/2023NFLCombineKPIDashboardFinal">
-    <img src="https://github.com/user-attachments/assets/68e72416-abb8-4f3a-84e1-98e9df9b28d4" width="80%">
-</a>
----
-**Using some fake data generated in R, Ed researched the visualizing survey data whitepaper produced by Tableau and produced this sample dashboard to explore the results of the fake survey.**
-<br>
-<a href="https://public.tableau.com/app/profile/edwardhayter/viz/SurveyDataAnalysisAcceleratorEd/SurveyDataDashboard">
-    <img src="https://github.com/user-attachments/assets/e24f1454-d8d6-4857-9fb0-7a3b811280fb" width="80%">
+    <img src="Solar Monitoring.png" width="80%">
 </a>
 ---
 
