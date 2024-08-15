@@ -19,7 +19,7 @@ As a binational French and Canadian data consultant, I combine technical experti
 **Experience this classic PC game on Tableau with this homage that aims to replicate as much of the game's original functionality as possible.**
 <br>
 <a href="https://public.tableau.com/views/GenderParityinUKParliament/Parliament?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="Parliament.png" width="80%">
+    <img src="Parliament1.png" width="80%">
 </a>
 ---
 **Explore how college athletes score within their data class in the physical testing of the NFL Combine with this Dashboard.**
