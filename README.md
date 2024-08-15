@@ -10,6 +10,12 @@ As a binational French and Canadian data consultant, I combine technical experti
 
 ## Tableau Projects (Click the Image to go to Tableau Public)
 ---
+**Explore how college athletes score within their data class in the physical testing of the NFL Combine with this Dashboard.**
+<br>
+<a href="https://public.tableau.com/shared/GXXN76NXJ?:display_count=n&:origin=viz_share_link">
+    <img src="Solar Monitoring.png" width="80%">
+</a>
+---
 **This Dashboard provides an executive overview of key performance metrics for a fictitious solar plant I created called.**
 <br>
 <a href="https://public.tableau.com/views/FrenchEnergyMix2022/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
@@ -20,12 +26,6 @@ As a binational French and Canadian data consultant, I combine technical experti
 <br>
 <a href="https://public.tableau.com/views/GenderParityinUKParliament/Parliament?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img src="Parliament1.png" width="80%">
-</a>
----
-**Explore how college athletes score within their data class in the physical testing of the NFL Combine with this Dashboard.**
-<br>
-<a href="https://public.tableau.com/shared/GXXN76NXJ?:display_count=n&:origin=viz_share_link">
-    <img src="Solar Monitoring.png" width="80%">
 </a>
 ---
 
