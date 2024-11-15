@@ -8,7 +8,7 @@ Alternatively, check out my company web page: https://www.thedataschool.co.uk/bl
 
 # Certifications
 
-| Tableau Data Analyst Certification | Alteryx Designer Advanced Certified | Alteryx Server Designer Core |
+| Tableau Data Analyst Certification | Alteryx Designer Advanced Certified | Snowpro Core |
 |:-:|:-:|:-:|
 | ![Tableau](tableau-certified-data-analyst.1.png) | ![Alteryx Designer](alteryx-designer-advanced-certification.png) | ![Snowpro Core](Snowpro-core.png) |
 
