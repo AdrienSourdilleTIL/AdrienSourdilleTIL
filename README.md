@@ -10,7 +10,7 @@ Alternatively, check out my company web page: https://www.thedataschool.co.uk/bl
 
 | Tableau Data Analyst Certification | Alteryx Designer Advanced Certified | Alteryx Server Designer Core |
 |:-:|:-:|:-:|
-| ![Tableau](tableau-certified-data-analyst.1.png) | ![Alteryx Designer](alteryx-designer-advanced-certification.png) | ![Alteryx Server](alteryx-designer-core-certification.png) |
+| ![Tableau](tableau-certified-data-analyst.1.png) | ![Alteryx Designer](alteryx-designer-advanced-certification.png) | ![Snowpro Core](alteryx-designer-core-certification.png) |
 
 ## Tableau Projects (Click the Image to go to Tableau Public)
 ---
