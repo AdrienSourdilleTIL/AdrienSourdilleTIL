@@ -1,6 +1,12 @@
 ## Bio 👋
 
-As a binational French and Canadian data consultant, I combine technical expertise and business intelligence. I have a Master's degree in Geographic Data Science and a Bachelors degree in management from the London School of Economics. I am passionate about the energy sector and am dedicated to using data insights to drive the energy transition. Currently, I am honing my skills at The Information Lab, where I am undergoing training on Tableau and Alteryx. I am perfecting my skills in data analysis, data visualization, and project management, and have a proven track record of utilizing data and analytics to solve complex business challenges and drive meaningful business outcomes.
+Hy there! My name is Adrien, I am a binational French-Canadian analytics engineer with a unique blend of technical expertise that allow me to own each part of a data project from data ingestion to data visualisation. 
+
+I'm passionate about leveraging data insights to drive the energy transition and support sustainable development through data-driven decisions. I have a proven track record in designing ETL pipelines, automating workflows, and delivering actionable analytics to solve complex business challenges. 
+
+After obtaining a Master’s in Geographic Data Science from the London School of Economics, I joined the Information Lab UK in 2022. After an intensive 4 month training course, I applied my Tableau and Alteryx expertise on high-impact projects during a 12-month placement at BAE Systems, a leading defense and aeronautics company. I then bridged the gap between data analysis and data engineering during a 7-month placement at Prêt A Manger, where I used Snowflake to design and maintain efficient ETL pipelines, optimize the data warehouse, and improve reporting accuracy and speed for stakeholders.
+
+In my free time, I love to travel, train Jiu Jitsu, and play football. I'm eager to keep developing my skills and I am confident in my ability to turn data into actionable insights.
 
 If you want to learn more, visit my website: https://adriensourdilletil.github.io/AdrienSourdille-Portfolio/ 
 
