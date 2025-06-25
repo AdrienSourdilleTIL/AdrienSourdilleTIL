@@ -22,7 +22,7 @@ Alternatively, check out my company web page: https://www.thedataschool.co.uk/bl
 ---
 **Explore the forecasting accuracy of Renewables in France**
 <br>
-<a href="[https://public.tableau.com/views/FrenchEnergyMix2022/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/RenewableProductionOverviewForecastedvsActualProduction/RenewableProductionOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">
+<a href="https://public.tableau.com/views/FrenchEnergyMix2022/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img src="Dashboard 1.png" width="80%">
 </a>
 ---
