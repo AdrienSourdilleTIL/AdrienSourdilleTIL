@@ -16,7 +16,7 @@ Alternatively, check out my company web page: https://www.thedataschool.co.uk/bl
 ---
 **Explore the solar production trends of this solar plant**
 <br>
-<a href="https://public.tableau.com/shared/GXXN76NXJ?:display_count=n&:origin=viz_share_link">
+<a href="https://public.tableau.com/shared/B7WFS2RZ7?:display_count=n&:origin=viz_share_link">
     <img src="Solar Monitoring.png" width="80%">
 </a>
 ---
