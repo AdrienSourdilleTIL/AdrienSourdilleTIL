@@ -36,7 +36,7 @@ Alternatively, check out my company's web page: https://www.thedataschool.co.uk/
 **Explore France's 2022 energy mix.**
 <br>
 <a href="https://public.tableau.com/views/FrenchEnergyMix2022/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="Dashboard 1.png" width="80%">
+    <img src="Dashboard 1 (5).png" width="80%">
 </a>
 ---
 ### About me
